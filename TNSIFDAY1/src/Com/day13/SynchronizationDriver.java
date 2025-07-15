@@ -28,8 +28,8 @@ public static void main(String[] args) throws InsufficientBalanceException {
 		}
 		
 		System.out.println("-----------------------------------------------");
-		System.out.println(raj);
+		System.out.println(anu);
 
-	}
+	} 
 
 }
